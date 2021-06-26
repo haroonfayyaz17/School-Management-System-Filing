@@ -1,0 +1,3 @@
+English<English Composition<SS101<5
+Computer Science<Computer Programming<CS103<10
+Computer Science<Introduction to Computing<CS101<9

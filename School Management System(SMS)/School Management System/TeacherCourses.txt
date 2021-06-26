@@ -1,0 +1,6 @@
+Gaba.Haroon<Computer Programming<10<A
+Atif.Ahmad<Introduction to Computing<9<A
+Rehman.Abdul<English Composition<5<A
+Atif.Ahmad<English Composition<5<A
+Gaba.Haroon<English Composition<5<A
+Atif.Ahmad<Computer Programming<10<A

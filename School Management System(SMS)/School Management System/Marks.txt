@@ -1,0 +1,17 @@
+1000<Umar Khan<Assignment<1<Introduction to Computing<5<12-12-2010<12<20
+1005<Saeed Ajmal<Assignment<1<Introduction to Computing<5<12-12-2010<20<20
+1000<Umar Khan<Sessional<1<Introduction to Computing<5<12-12-2010<25<55
+1005<Saeed Ajmal<Sessional<1<Introduction to Computing<5<12-12-2010<45<55
+1000<Umar Khan<Assignment<4<English Composition<5<19-12-2010<12<25
+1005<Saeed Ajmal<Assignment<4<English Composition<5<19-12-2010<20<25
+1001<Sami Aslam<Assignment<4<Introduction to Computing<7<25-12-2010<45<50
+1002<Rafy Muhammad<Assignment<4<Introduction to Computing<7<25-12-2010<32<50
+1003<Ahmad Khan<Sessional<1<English Composition<9<31-12-2010<55<75
+1001<Sami Aslam<Final<1<English Composition<8<12-12-2010<65<100
+1002<Rafy Muhammad<Final<1<English Composition<8<12-12-2010<95<100
+1001<Sami Aslam<Assignment<2<English Composition<7<15-12-2011<25<40
+1002<Rafy Muhammad<Assignment<2<English Composition<7<15-12-2011<35<40
+1001<Sami Aslam<Assignment<3<English Composition<7<30-12-2011<35<40
+1001<Sami Aslam<Assignment<4<English Composition<7<24-12-2011<40<40
+1000<Umar Khan<Sessional<1<Computer Programming<5<12-10-2010<55<60
+1005<Saeed Ajmal<Sessional<1<Computer Programming<5<12-10-2010<57<60
